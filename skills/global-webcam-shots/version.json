@@ -1,0 +1,7 @@
+{
+  "name": "global-webcam-shots",
+  "repo_url": "https://github.com/myname-design/Alan-elsewhere-shots",
+  "version": "1.0.0",
+  "updated": "2026-10-23",
+  "notes": "首版。SkylineWebcams 直链出图 + md5 验真 + GitHub 图床，含 Windy/官方站/浏览器三条兜底路径，纽约 20 个机位 id 表。"
+}
